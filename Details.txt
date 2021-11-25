@@ -1,0 +1,7 @@
+Question :- Use NumPy to simulate yearly revenues for 1,000 new ventures 
+	for a ten-year timespan (since the inception of businesses to year '10').
+	 Then, use Matplotlib to create one figure that shows both the within and 
+	between variation in revenues.
+
+Here I Comment all the plot to get it in required size so that I upload it to Github, 
+please uncomment and run it to see the image
